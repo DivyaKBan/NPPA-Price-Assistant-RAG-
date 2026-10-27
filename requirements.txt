@@ -1,10 +1,13 @@
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch
 fastapi
 uvicorn
 chromadb
 sentence-transformers
-# pypdf
+rank_bm25
 groq
 python-dotenv
 streamlit
 requests
-# pdfplumber
+# pypdf
+# pdfplumber 
