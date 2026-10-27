@@ -1,15 +1,9 @@
----
-title: NPPA Price Assistant
-sdk: docker
-app_port: 7860
----
-
 # NPPA Retail Price Assistant (RAG)
 
 A question-answering assistant over a 600+ page NPPA (National Pharmaceutical Pricing Authority) retail price list. It answers questions like *"What is the retail price of X tablet by manufacturer Y?"* using only retrieved rows from the document, shows the source rows, and refuses when the answer isn't in the data.
 
 **Live demo:** [add Hugging Face Space link]
-**Stack:** Python, pdfplumber, sentence-transformers, ChromaDB, BM25, Groq (LLM), Streamlit, FastAPI, Docker
+**Stack:** Python, pdfplumber, sentence-transformers, ChromaDB, BM25, Groq (LLM), Streamlit, FastAPI
 
 <img width="1007" height="783" alt="Screenshot 2026-10-27 134354" src="https://github.com/user-attachments/assets/661eecbc-100f-4c38-b996-23c609619c19" />
 
