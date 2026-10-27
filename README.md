@@ -11,7 +11,8 @@ A question-answering assistant over a 600+ page NPPA (National Pharmaceutical Pr
 **Live demo:** [add Hugging Face Space link]
 **Stack:** Python, pdfplumber, sentence-transformers, ChromaDB, BM25, Groq (LLM), Streamlit, FastAPI, Docker
 
-![App screenshot](docs/screenshot.png)
+![App screenshot](<img width="1007" height="783" alt="Screenshot 2026-10-27 134354" src="https://github.com/user-attachments/assets/a67e9e50-cd92-4ca6-b016-bbc7fd8c116d" />
+)
 
 ## The problem
 
