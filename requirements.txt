@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+chromadb
+sentence-transformers
+# pypdf
+groq
+python-dotenv
+streamlit
+requests
+# pdfplumber

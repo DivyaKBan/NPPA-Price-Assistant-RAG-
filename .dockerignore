@@ -1,0 +1,9 @@
+venv/
+.env
+data/
+data_test/
+__pycache__/
+.vscode/
+evaluation/
+scripts/
+docs/

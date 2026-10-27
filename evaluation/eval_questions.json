@@ -1,0 +1,282 @@
+[
+  {
+    "question": "What is the retail price of Zolpidem Tartrate Prolonged release tablets (Each film coated bilayered Prolonged release tablets contains: Zolpidem Tartrate) manufactured by M/s Abbott India Limited?",
+    "expected_row": "S.No: 2636 |",
+    "expected_keywords": [
+      "11.41"
+    ]
+  },
+  {
+    "question": "What is the retail price of Rabies Human Monoclonal Antibody (rDNA) (Rabishield) (Each ml contains: Rabies Human Monoclonal Antibody (rDNA) 40IU) manufactured by M/s Serum Institute of India Pvt. Ltd.?",
+    "expected_row": "S.No: 466 |",
+    "expected_keywords": [
+      "8055.68"
+    ]
+  },
+  {
+    "question": "What is the retail price of Paracetamo l infusion 10 00mg/100ml (Each ml contains: Paracetamol 10mg) manufactured by M/s Ahlcon Parenterals (I) Ltd?",
+    "expected_row": "S.No: 111 |",
+    "expected_keywords": [
+      "2.1"
+    ]
+  },
+  {
+    "question": "What is the retail price of Bisoprolol Fumarate and Amlodipine tablets (Each Film coated tablet contains: Bisoprolol Fumarate IP 5 mg Amlodipine besylat) manufactured by M/s Dr. Miltons Laboratories pvt. Ltd./?",
+    "expected_row": "S.No: 3055 |",
+    "expected_keywords": [
+      "8.4"
+    ]
+  },
+  {
+    "question": "What is the retail price of Propranolol Hydrochlori de + Flunarizine Tablet (Each uncoated Bilayered Tablet contains: Propranolol Hydrochloride IP 40mg (as S) manufactured by M/s Akums Drugs & Ph armaceutica ls Ltd.?",
+    "expected_row": "S.No: 1142 |",
+    "expected_keywords": [
+      "7.76"
+    ]
+  },
+  {
+    "question": "What is the retail price of Diclofenac + Thiocolchico side Capsule (Each Hard Gelatin capsule contains: Diclofenac Sodium IP 50mg (As Enteric coated) manufactured by M/s Akums Drugs & Ph armaceutica ls Ltd.?",
+    "expected_row": "S.No: 1019 |",
+    "expected_keywords": [
+      "18.91"
+    ]
+  },
+  {
+    "question": "What is the retail price of Rosuvastati n + Clopidogrel Capsule (Each hard gelatine capsule contains: Rosuvastatin Calcium IP eq. to Rosuvastatin) manufactured by M/s Windlas Biotech Private Limited?",
+    "expected_row": "S.No: 930 |",
+    "expected_keywords": [
+      "17.16"
+    ]
+  },
+  {
+    "question": "What is the retail price of Olmesartan + Amlodipine Tablet (Tripinom 40) (Each uncoated tablet contains: Olmesartan Medoxomil 40mg, Amlodipine Besylate eq) manufactured by M/s Accent Pharma?",
+    "expected_row": "S.No: 584 |",
+    "expected_keywords": [
+      "12.29"
+    ]
+  },
+  {
+    "question": "What is the retail price of Ceftraxone & Tazobactam Injection (Each vial contains: Sterile Ceftraxone Sodium IP eq. to Ceftriaxone 250mg Steril) manufactured by M/s GMH Organics?",
+    "expected_row": "S.No: 3034 |",
+    "expected_keywords": [
+      "66.92"
+    ]
+  },
+  {
+    "question": "What is the retail price of Chorionic G onadotrophi n Injection (Each vial of sterile freeze-dried product contains Human Chorionic Gonadotrophin) manufactured by M/s Sanzyme (P.) Ltd.?",
+    "expected_row": "S.No: 429 |",
+    "expected_keywords": [
+      "260.8"
+    ]
+  },
+  {
+    "question": "What is the retail price of Dapagliflozi n, Metformin Hydrochlori de (Extended Release) and Glimepiride Tablets (Each film coated bilayered tablet contains: Dapagliflozin Propanediol USP eq. to) manufactured by M/s Akums Drugs and P harmaceutic als Ltd.?",
+    "expected_row": "S.No: 2789 |",
+    "expected_keywords": [
+      "16.00"
+    ]
+  },
+  {
+    "question": "What is the retail price of Atorvastatin & Ezetimibe Tablet (Each film Coated tablet contains: Atorvastatin Calcium IP eq. to Atorvastatin 40) manufactured by M/s Pure and Cure Healthcare Pvt. Ltd./?",
+    "expected_row": "S.No: 3051 |",
+    "expected_keywords": [
+      "34.65"
+    ]
+  },
+  {
+    "question": "What is the retail price of Domperidon e and Naproxen Sodium Tablets (Each film coated tablet contains: Domperidone Maleate IP eq. to Domperidone 10mg) manufactured by M/s Akums Drugs & Ph armaceutica ls Ltd.?",
+    "expected_row": "S.No: 2250 |",
+    "expected_keywords": [
+      "5.39"
+    ]
+  },
+  {
+    "question": "What is the retail price of Metformin HCl SR+ Voglibose+ Glimepiride Tablet (Each uncoated bilayered tablet contains: Metformin HCl-500mg (in sustained relea) manufactured by M/s Inventia Healthcare Pvt. Ltd.?",
+    "expected_row": "S.No: 366 |",
+    "expected_keywords": [
+      "71.43"
+    ]
+  },
+  {
+    "question": "What is the retail price of Dapagliflozi n, Vildagliptin (SR) and Metformin H ydrochloride (SR) Tablets (Each film coated bilayered tablet contains: Dapagliflozin Propanediol Monohydrat) manufactured by M/s Exemed Pharmaceut icals?",
+    "expected_row": "S.No: 2435 |",
+    "expected_keywords": [
+      "19"
+    ]
+  },
+  {
+    "question": "What is the retail price of Escitalopra m Oxalate + Clonazepa m Tablet (Each film coated tablet contains: Escitalopram Oxalate IP eq. to Escitalopram 5m) manufactured by M/s Micro Labs Limited?",
+    "expected_row": "S.No: 1745 |",
+    "expected_keywords": [
+      "7.9"
+    ]
+  },
+  {
+    "question": "What is the retail price of Amoxycillin & Dicloxacillin Capsule (Amoxycillin Trihydrate eq. to Amoxycillin 250mg Dicloxacillin Sodium eq. to Dicl) manufactured by Theon Phar maceuticals Ltd.?",
+    "expected_row": "S.No: 139 |",
+    "expected_keywords": [
+      "5.22"
+    ]
+  },
+  {
+    "question": "What is the retail price of (Clobetavat e NM 10gms cream). (Each gm contains: Clobetasol Propionate 0.05% w/w Neomycin Sulphate eq to Neomyc) manufactured by M/s Curetech Skincare?",
+    "expected_row": "S.No: 131 |",
+    "expected_keywords": [
+      "2.06"
+    ]
+  },
+  {
+    "question": "What is the retail price of Arbivit \u2013 3 Forte Drops (Each ml contains: Cholecalciferol 800 IU (Vitamin D3) Palatable base) manufactured by M/s Raptakos, Brett & Co. Ltd?",
+    "expected_row": "S.No: 393 |",
+    "expected_keywords": [
+      "4.33"
+    ]
+  },
+  {
+    "question": "What is the retail price of Rosuvastati n + Aspirin + Clopidogrel Capsule (Each Hard Gelatine Capsule contains: Rosuvastatin Calcium IP eq. to Rosuvastatio) manufactured by M/s Synokem P harmaceutic als Ltd.?",
+    "expected_row": "S.No: 911 |",
+    "expected_keywords": [
+      "17.88"
+    ]
+  },
+  {
+    "question": "What is the retail price of Metformin + Glimepiride Tablet (Geminor 0.5) (Each uncoated bilayered tablet contains: Metformin Hydrochloride ER 500mg, Glime) manufactured by M/s Macleods P harmaceutic al Limited?",
+    "expected_row": "S.No: 968 |",
+    "expected_keywords": [
+      "3.57"
+    ]
+  },
+  {
+    "question": "What is the retail price of Sitagliptin Phosphate and Metformin H ydrochloride (SR) Tablets (Each film coated tablet contains: Sitagliptin Phosphate Monohydrate IP eq. to Si) manufactured by M/s Mascot Health Series Pvt. Ltd.?",
+    "expected_row": "S.No: 2086 |",
+    "expected_keywords": [
+      "20.17"
+    ]
+  },
+  {
+    "question": "What is the retail price of Amoxycillin and Potassium Clavulanate Oral Suspension (Each 5ml of reconstituted suspension contains: Amoxycillin Trihydrate IP eq. to ) manufactured by M/s MALIK LIFESCIEN CES PVT LTD,?",
+    "expected_row": "S.No: 2482 |",
+    "expected_keywords": [
+      "162.11"
+    ]
+  },
+  {
+    "question": "What is the retail price of Gatifloxacin 3mg + Pred nisolone Acetate 10mg + Ben zalkonium Chloride Drops 0.01% (Eye drops). (Each ml contains Gatifloxacin eq. to Gatifloxacin (anhydrous) \u2013 3mg Prednisolone) manufactured by M/s Adore P harmaceutic als Pvt. Ltd.?",
+    "expected_row": "S.No: 117 |",
+    "expected_keywords": [
+      "2.47"
+    ]
+  },
+  {
+    "question": "What is the retail price of Atovastatin and Clopidogrel Tablets (Each uncoated bilayered tablet contains: Atorvastatin Calcium IP eq. to Atorvast) manufactured by M/s Pure & Cure Healthcare Pvt. Ltd.?",
+    "expected_row": "S.No: 2315 |",
+    "expected_keywords": [
+      "27.6"
+    ]
+  },
+  {
+    "question": "What is the retail price of Methylcobal amin + Metformin T ablet(Glyco met 1000 MC) (Each film coated tablet contains: Metformin Hydrochloride IP 1000mg (As SR form)) manufactured by M/s Aeon F ormulations Pvt. Ltd.?",
+    "expected_row": "S.No: 829 |",
+    "expected_keywords": [
+      "7.97"
+    ]
+  },
+  {
+    "question": "What is the retail price of Sitagliptin Phosphate, Metformin H ydrochloride and Glimepiride Tablets (Each film coated tablet contains: Sitagliptin Phosphate Monohydrate IP eq. to Si) manufactured by M/s Sun Pharma Laboratories Limited?",
+    "expected_row": "S.No: 2950 |",
+    "expected_keywords": [
+      "12.19"
+    ]
+  },
+  {
+    "question": "What is the retail price of Cefixime and Ofloxacin Tablets (Each film coated tablet contains: Cefixime eq. to Cefixime Anhydrous IP 200mg Of) manufactured by M/s Aagya Biotech Pvt. Ltd.?",
+    "expected_row": "S.No: 2678 |",
+    "expected_keywords": [
+      "13.87"
+    ]
+  },
+  {
+    "question": "What is the retail price of Metoprolol Succinate Extended Release, Amlodipine & Telmisartan Tablet (Each film coated bilayered tablet contains: Metoprolol Succinate IP 47.50mg eq. ) manufactured by M/s Akums Drugs & Ph armaceutica ls Ltd.?",
+    "expected_row": "S.No: 2890 |",
+    "expected_keywords": [
+      "14.5"
+    ]
+  },
+  {
+    "question": "What is the retail price of Domperidon e and Naproxen Sodium Tablets (Each film coated tablet contains: Domperidone Maleate IP eq. to Domperidone 10mg) manufactured by M/s Akums Drugs & Ph armaceutica ls Ltd.?",
+    "expected_row": "S.No: 2249 |",
+    "expected_keywords": [
+      "6.99"
+    ]
+  },
+  {
+    "question": "What is the retail price of Telmisartan + Cilnidipine + Metoprolol Succinate (ER) Tablet (Each film coated tablet contains: Telmisartan IP 40mg Cilnidipine IP 10mg Metopr) manufactured by M/s Pure and Cure Healthcare Pvt. Ltd.?",
+    "expected_row": "S.No: 1735 |",
+    "expected_keywords": [
+      "12.95"
+    ]
+  },
+  {
+    "question": "What is the retail price of Formoterol Fumarate + Budesonide Suspension (Each 2ml Inhalation suspension contains: Formoterol Fumarate Dihydrate IP eq. to) manufactured by M/s Akums Drugs & Ph armaceutica ls Ltd.?",
+    "expected_row": "S.No: 918 |",
+    "expected_keywords": [
+      "36.04"
+    ]
+  },
+  {
+    "question": "What is the retail price of Itraconazole Capsules BP 50 mg (Each hard gelatin capsule contains: Itraconazole BP 50 mg) manufactured by M/s Pure and Cure Healthcare Pvt. Ltd./?",
+    "expected_row": "S.No: 1856 |",
+    "expected_keywords": [
+      "11.51"
+    ]
+  },
+  {
+    "question": "What is the retail price of Dapagliflozi n, Vildagliptin (As Sustained release) and Metformin H ydrochloride (as Sustained Release) Tablets (Each uncoated bilayered tablet contains: Dapagliflozin Propanediol Monohydrate e) manufactured by M/s Exemed Pharmaceut icals?",
+    "expected_row": "S.No: 2430 |",
+    "expected_keywords": [
+      "16.04"
+    ]
+  },
+  {
+    "question": "What is the retail price of Vildagliptin + Metformin Tablet (Each film coated tablet contains: Vildagliptin 50mg, Metformin Hydrochloride 500) manufactured by M/s Emcure Pharmaceut icals Limited /?",
+    "expected_row": "S.No: 1155 |",
+    "expected_keywords": [
+      "22.77"
+    ]
+  },
+  {
+    "question": "What is the capital of France?",
+    "expected_row": null,
+    "expected_keywords": [
+      "could not find"
+    ]
+  },
+  {
+    "question": "What is the retail price of Zorbanex 500 mg tablets?",
+    "expected_row": null,
+    "expected_keywords": [
+      "could not find"
+    ]
+  },
+  {
+    "question": "Who is the Health Minister of India?",
+    "expected_row": null,
+    "expected_keywords": [
+      "could not find"
+    ]
+  },
+  {
+    "question": "What is the ceiling price of Paracetamol 500 mg tablet?",
+    "expected_row": null,
+    "expected_keywords": [
+      "could not find"
+    ]
+  },
+  {
+    "question": "How do I cook biryani?",
+    "expected_row": null,
+    "expected_keywords": [
+      "could not find"
+    ]
+  }
+]

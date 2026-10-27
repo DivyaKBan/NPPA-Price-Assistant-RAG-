@@ -1,0 +1,7 @@
+python -m evaluation.eval_retrieval 8
+python -m evaluation.evaluate 10
+python -m evaluation.rerun_errors
+python -m scripts.debug paracetamol mefenamic
+python -m scripts.ingest_tables
+
+streamlit run app.py and uvicorn main:app --reload
